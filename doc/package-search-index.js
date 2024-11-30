@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"es.poo.tiendaonline.cliente"},{"l":"es.poo.tiendaonline.envio"},{"l":"es.poo.tiendaonline.interfaces"},{"l":"es.poo.tiendaonline.main"},{"l":"es.poo.tiendaonline.metodo"},{"l":"es.poo.tiendaonline.miscelaneo"},{"l":"es.poo.tiendaonline.producto"}];updateSearchResults();
